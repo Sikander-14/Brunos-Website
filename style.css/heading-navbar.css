@@ -1,0 +1,48 @@
+    body {
+        background-color: tan;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    
+    .heading {
+        font-family: monospace;
+        font-size: 100px;
+        font-weight: bold;
+        display: inline-block;
+        margin-left: 350px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        
+    }
+
+    nav ul {
+        list-style: none;
+        text-align: center;
+
+    }
+
+    nav li {
+        display: inline-block;
+        margin-right: 10em;
+    }
+
+
+    .div-example {
+        display: inline-block;
+    }
+
+    .bruno-logo {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .practice-container {
+        display: flex;
+        background-color: turquoise;
+        height: 500px;
+        width: 500px;
+    }
+
+
+
+
